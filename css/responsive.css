@@ -1,0 +1,9 @@
+@media screen and (max-width: 480px) {
+
+	.navbar{
+		background-color: red;
+		color: red;
+	}	
+
+
+}
